@@ -20,3 +20,11 @@ Gemfile.lock
 # Node.js
 node_modules/
 dist/
+
+# TON Blockchain
+ton-blockchain/testnet/
+ton-blockchain/mainnet/
+
+# TON-Solana Bridge
+ton-solana-bridge/testnet/
+ton-solana-bridge/mainnet/
