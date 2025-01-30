@@ -1,0 +1,4 @@
+export const connectSolanaMainnet = () => {
+  // Implement connection logic to Solana mainnet
+  console.log("Connected to Solana Mainnet");
+};
