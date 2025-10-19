@@ -1,2 +1,17 @@
 {
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "typescript": true,
+    "javascript": true
+  },
+  "github.copilot.advanced": {
+    "debug.overrideEngine": "gpt-5-preview",
+    "debug.useCodexModel": "gpt-5-codex-preview"
+  },
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.chat.model": "gpt-5-preview",
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": true
 }
