@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "copilot": {
+    "model": "gpt-5-preview",
+    "codex": {
+      "enabled": true,
+      "model": "gpt-5-codex-preview"
+    },
+    "chat": {
+      "enabled": true,
+      "model": "gpt-5-preview"
+    },
+    "suggestions": {
+      "enabled": true,
+      "inline": true
+    }
+  }
+}
